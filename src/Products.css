@@ -1,0 +1,19 @@
+.products-container{
+    width: 600px;
+    padding: 10px 0px;
+    margin: 25px auto;
+    background-color: bisque;
+    border:1px solid red;
+    border-radius: 25px 50px;
+}
+
+h1 span:first-child{    
+    text-align: center;
+}
+
+h1 span:last-child{    
+    padding-left: 50px;
+    text-align: center;
+}
+
+
