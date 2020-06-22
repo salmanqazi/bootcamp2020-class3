@@ -17,7 +17,7 @@ function App() {
         <Products productName="HP Laptop" price="PKR 1,20000" />
         <Products productName="DELL Laptop" price="PKR 1,15000" />
         <Products productName="Lenevo Laptop" price="PKR 95,000" />
-        
+        <Products productName="Core i7 PC" price="PKR 1,15000" />
       </div>
 
     </div>
